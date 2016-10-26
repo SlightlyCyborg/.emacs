@@ -1,0 +1,25 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".reddit.com"
+	[url-cookie "__cfduid" "d1e1c9273f39b4ed5ceea33207f33c4c11453475876" "21 Jan 17 15:17:56 [GMT]" "/" ".reddit.com" nil]
+	[url-cookie "HttpOnly" nil "21 Jan 17 15:17:56 [GMT]" "/" ".reddit.com" nil])
+ (".google.com"
+	[url-cookie "NID" "85=i7h6BuVdYNBMVd9HjBKzGg7CZWRwWRzhhsObNd1uqvJaXm4UBljYDoZzZRkarsuXNkkpUurVrnK4h57-dnyBKzBqAVv5nIDpzZUVYmnXjV4hZ9zA_jfr_tGb51SgiT5g" "27-Feb-2017 19:28:33.00 GMT" "/" ".google.com" nil]
+	[url-cookie "HttpOnly" nil "27-Feb-2017 19:28:33.00 GMT" "/" ".google.com" nil])
+ (".google.com.kh"
+	[url-cookie "NID" "85=epjxZzLfpkCnsOV12bSfFk3XpjMLRfEn_QmmJqhHDuB2_XfqYwZiXu9ZbTtGR4gR_KoHSgflQl63ORpjVKK153EqARlsKUJvXaNaactW3v3sPyTUA1y4axibMe4APCig" "27-Feb-2017 19:28:33.00 GMT" "/" ".google.com.kh" nil]
+	[url-cookie "HttpOnly" nil "27-Feb-2017 19:28:33.00 GMT" "/" ".google.com.kh" nil])
+ (".stackoverflow.com"
+	[url-cookie "prov" "57ffb51a-f0d0-4b2c-bb5b-107572863f6d" "01-Jan-2055 00:00:00.00 GMT" "/" ".stackoverflow.com" nil]
+	[url-cookie "HttpOnly" nil "01-Jan-2055 00:00:00.00 GMT" "/" ".stackoverflow.com" nil]
+	[url-cookie "__cfduid" "d08b6cfa6ae3d835cac4e8868976d71861457969387" "14 Mar 17 15:29:47 [GMT]" "/" ".stackoverflow.com" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

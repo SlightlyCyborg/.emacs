@@ -1,0 +1,79 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/collinbell/Programs/" . "noob-has-a-lisp-again/")
+ ("/Users/collinbell/Trademark/rentailor/templates/" . "properties/")
+ ("/Users/" . "collinbell/")
+ ("/Users/collinbell/" . "Trademark/")
+ ("/" . "Applications/")
+ ("/Users/collinbell/Trademark/rentailor/" . "controllers/")
+ ("/Users/collinbell/Trademark/" . "rentailor/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/collinbell/Projects/t-413/src/t_413/"
+ "/Users/collinbell/Trademark/rentailor/controllers/"
+ "/Users/collinbell/"
+ "/Users/collinbell/Programs/noob-has-a-lisp-again/"
+ "/Users/collinbell/Trademark/rentailor/tables/"
+ "/Users/collinbell/Trademark/rentailor/bugs/"
+ "/Users/collinbell/Trademark/rentailor/templates/properties/"
+ "/Users/collinbell/Trademark/rentailor/shared/"
+ "/Users/collinbell/Trademark/rentailor/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "viz.clj"
+ "Controller_renters.class.php"
+ ".emacs"
+ "Controller_test.class.php"
+ "desires.lisp"
+ "Table_listings.class.php"
+ "script.lisp"
+ "view.tpl"
+ "Utility.class.php"
+ "bugs.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/collinbell/dameon/src/dameon/" (22456 43828 0 0) "voice/" "visual_cortex/" "smart_object.clj~" "smart_object.clj" "smart_atom.clj~" "smart_atom.clj" "settings.clj" "safe_mat.clj" "ref_to_safe_obj.clj~" "face/" "eyes/" "core.clj" "../" "./")
+
+ ("/Users/collinbell/" (22413 60514 0 0) "yc.txt" "whatiamdoing" "Vision/" "VirtualBox VMs/" "trumbowyg/" "the_road_to_reality_analysis/" "textbook-code/" "text.text" "text.py" "tests/" "test_world_ui.py" "taggartcybernetics/" "slightlycyb.org/" "Rouge/" "ROBO 3D R1.ini" "resource.io/" "reflections/" "quicklisp/" "Public/" "Projects/" "Programs/" "Pictures/" "phpshit/" "pass.js" "out.db" "org/" "opt/" "node_modules/" "Music/" "Movies/" "mbox" "macsetup.sh" "libs/" "Library/" "launch" "knoxmeetups" "Journal/" "ip" "helloworld.lisp" "Google Drive/" "goals/" "go/" "Downloads/" "Documents/" "Desktop/" "computer-systems/" "building_heights.py" "Books/" "Applications/" ".zshrc" ".zcompdump" ".Xauthority" ".vnc/" ".vimrc" ".vimperator/" ".viminfo.tmp" ".viminfo" ".vim/" ".Trash/" ".subversion/" ".ssh/" ".squirrel-sql/" ".slime-history.eld" ".slime/" ".sbclrc" ".ropeproject/" ".rnd" ".python_history" ".pyenv/" ".putty/" ".pearrc" ".p2/" ".oracle_jre_usage/" ".nvm/" ".npm/" ".node-gyp/" ".netrc" ".mplayer/" ".m2/" ".local/" ".lesshst" ".lein/" ".jssc/" ".jackdrc" ".histfile" ".heroku/" ".gradle/" ".gnupg/" ".gitconfig" ".gem/" ".gazebo/" ".emscripten_sanity" ".emscripten_cache__last_clear" ".emscripten_cache/" ".emscripten_build/" ".emscripten" ".emacs~" ".emacs.d/" ".emacs" ".electrum/" ".eclipse/" ".DS_Store~" ".DS_Store" ".docker/" ".dbvis/" ".cups/" ".config/" ".composer/" ".CFUserTextEncoding" ".ccl-init.lisp" ".cache/" ".bzr.log" ".bashrc~" ".bashrc" ".bash_history" ".aws/" ".android/" "'" "#whatiamdoing#" "#Trademark#" "../" "./")
+
+ ("/private/var/folders/13/czsnc__d5qbd25p97svzgmwm0000gn/T/fz3temp-1/" (22256 22598 0 0) "note-system.js~" "note-system.js" "fz3temp-lockfile" "_view_tasks.tpl~" "_view_tasks.tpl" "_task.tpl" "../" "./")
+
+ ("/Users/collinbell/Trademark/rentailor/" (22182 35653 0 0) "tests/" "testing_protocal.txt" "templates/" "temp/" "tags" "tables/" "ssh_dev" "ssh" "shared/" "scripts/" "scp" "run" "routing.php" "Router.class.php" "rentailor_calc (2).php" "readmen" "public/" "psysh" "post.log" "php.ini.compiled" "parse_data.py" "notes/" "my_stack.txt" "market.clj" "main.cpp" "logs/" "history.txt" "GTAGS" "GRTAGS" "GPATH" "file2" "file1" "controllers/" "config_2015-09-29.php" "config.php" "composer.phar" "composer.lock" "composer.json" "collin.pem" "bugs.html~" "bugs/" "add-billable.tpl" ".ropeproject/" ".htaccess" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/collinbell/Trademark/rentailor/shared/" (22186 1443 0 0) "YouTubeHelper.class.php" "Utility.class.php" "Testify/" "TemplatingEngine.class.php" "TazWorks.class.php" "Tables.class.php" "TableRow.class.php" "Table.class.php" "smarty-3.1.21/" "SmartForms.class.php" "simpletest/" "Request.class.php" "Rentailor_Calc.class.php" "reject_reasons.json" "public-file.php" "PaymentGatewayElavon.class.php" "PaymentGateway.class.php" "page.php" "Messages.class.php" "htmlMimeMail5/" "holidays.json" "Helper.class.php" "GenericResult.class.php" "Features.class.php" "Database_Adapter_MySQLi.class.php" "Database_Adapter.class.php" "Controller_with_tailored_rent.class.php" "Controller_Helper_Functions.php" "Controller.class.php" "CachedTableView.class.php" "BackgroundChecker.class.php" "aws/" "application_pm_matrix_link.json" "aggressive_breeds.json" "additional_features.json" "Accounts.class.php" "../" "./")
+
+ ("/Users/collinbell/Trademark/rentailor/templates/properties/" (22178 21878 0 0) "view.tpl" "landlord.tpl" "_reservation_form2.tpl" "_reservation_form.tpl" "_ratings.tpl" "_rating_pic.tpl" "_comments.tpl" "../" "./")
+
+ ("/Users/collinbell/Trademark/rentailor/bugs/" (22182 35662 0 0) "bugs.html~" "bugs.html" "../" "./")
+
+ ("/Users/collinbell/Trademark/rentailor/tables/" (22183 57869 0 0) "template_table.php" "Table_unlimited_custom_fees.class.php" "Table_tickets.class.php" "Table_ticket_message.class.php" "Table_shared_applications.class.php" "Table_school_zones.class.php" "Table_reservations.class.php" "Table_renters.class.php" "Table_renter_listing_links.class.php" "Table_renter_listing_link_messages.class.php" "Table_renter_alerts.class.php" "Table_property_managers.class.php" "Table_prequal.class.php" "Table_pm_model_price_matrix.class.php" "Table_pm_master_rent_payment_schedules.class.php" "Table_pm_master_price_matrices.class.php" "Table_pm_listing_price_matrix.class.php" "Table_pm_alerts.class.php" "Table_payments.class.php" "Table_party.class.php" "Table_pages.class.php" "Table_options.class.php" "Table_occupants.class.php" "Table_models.class.php" "Table_model_texts.class.php" "Table_model_photos.class.php" "Table_model_floorplans.class.php" "Table_listings.class.php" "Table_listing_views.class.php" "Table_listing_texts.class.php" "Table_listing_rent_payment_schedules.class.php" "Table_listing_pins.class.php" "Table_listing_photos.class.php" "Table_listing_floorplans.class.php" "Table_leases.class.php" "Table_landlord_history.class.php" "Table_invoices.class.php" "Table_guarantors.class.php" "Table_feature_meta.class.php" "Table_emails_outgoing.class.php" "Table_discounts.class.php" "Table_criminal_records.class.php" "Table_crim_cred_logs.class.php" "Table_crim_cred.class.php" "Table_cosigners.class.php" "Table_concessions.class.php" "Table_community_photos.class.php" "Table_communities.class.php" "Table_applications.class.php" "Table_admins.class.php" "Table_additional_features.class.php" "Table_additional_feature_meta.class.php" "Table_activation_plans.class.php" "Table_activation_invoices.class.php" "phpify_links.py" "application_pm_matrix_link.json" ".ropeproject/" "../" "./")
+
+ ("/Users/collinbell/Programs/noob-has-a-lisp-again/" (22175 30728 0 0) "README.md" "desires.lisp~" "desires.lisp" "cds.lisp" ".git/" "#cds.lisp#" "../" "./")
+
+ ("/Users/collinbell/Trademark/rentailor/controllers/" (22183 57869 0 0) "Controller_test.class.php" "Controller_system.class.php" "Controller_subordinate_managers.class.php" "Controller_search.class.php" "Controller_renters_.class.php" "Controller_renters.class.php" "Controller_renter_applications.class.php" "Controller_property_managers.class.php" "Controller_properties.class.php" "Controller_pm_occupants.class.php" "Controller_pm_models.class.php" "Controller_pm_listings.class.php" "Controller_pm_leases.class.php" "Controller_pm_invoices.class.php" "Controller_pm_communities.class.php" "Controller_home.class.php" "Controller_default.class.php" "Controller_cron_.class.php" "Controller_cron.class.php" "Controller_communities.class.php" "Controller_admin_nsf_fees.class.php" "Controller_admin_manage_renters.class.php" "Controller_admin_manage_property_managers.class.php" "Controller_admin_manage_billing.class.php" "Controller_admin.class.php" "#Controller_renters.class.php#" "#Controller_pm_listings.class.php#" "#Controller_home.class.php#" "#Controller_cron.class.php#" "../" "./")
+
+ ("/Users/collinbell/Projects/t-413/src/t_413/" (22186 36922 0 0) "spoof_gpio.clj" "motor_funcs.clj" "core.clj" "../" "./")
+
+ ("/Users/collinbell/Programs/" (22162 55042 0 0) "weld-challenge/" "VoIP-Test/" "Table_invoices.class.php" "sphinx4/" "speech_recognition/" "speak_cron/" "send_unchecked/" "send-to-weld.zip" "send-to-weld/" "scraper/" "rouge/" "robot_arduino/" "resourceio/" "reddit_by_the_numbers/" "rangy/" "pygame_sdl2/" "psysh" "probability/" "php-nnet/" "noob-has-a-lisp-again/" "noob-has-a-lisp/" "node-js-getting-started/" "macvim/" "lispy_macro_practice/" "learning_open_cv/" "hdcp-genkey/" "google_omfg/" "garden_bots/" "emscriptentut/" "electrum/" "Docx-to-HTML/" "daily/" "Clojureboy/" "clojure-koans/" "bar-o-soap/" "auto-catalog/" "3030/" ".DS_Store" "../" "./")
+
+ ("/Users/collinbell/Projects/" (22145 50397 0 0) "water_wheel/" "testtest/" "test/" "t413/" "mission_match/" "meditation/" "clojure-koans/" "CardboardToPC/" ".DS_Store" "../" "./")
+
+ ("/Users/collinbell/Trademark/rentailor/templates/" (22159 56572 0 0) "view-property_2015-02-19.tpl" "view-property_2015-01-09.tpl" "tos.tpl" "test.tpl" "test/" "tailor-my-rent.tpl" "tailor-my-rent/" "shopping-cart.tpl" "search_.tpl" "search.tpl" "search/" "reviews.tpl" "renters.tpl" "renters/" "refund-policy.tpl" "property-managers.tpl" "property-managers/" "properties/" "privacy-policy.tpl" "photos.tpl" "other-pages/" "home.tpl" "form-blocks/" "emails/" "communities_2015-02-19.tpl" "communities/" "cityscapes.tpl" "blog.tpl" "admin.tpl" "admin/" "about-us.tpl" "_states.tpl" "_rent_payment.tpl" "_notes.tpl" "_nav-list.tpl" "_month_options.tpl" "_layout_wide.tpl" "_layout_text.tpl" "_layout_search.tpl" "_layout_iframe.tpl" "_layout_home.tpl" "_layout_email_2015-05-01.tpl" "_layout_email.tpl" "_layout_default.tpl" "_layout_compare.tpl" "_layout_admin.tpl" "_header.tpl" "_head.tpl" "_footer.tpl" "_foot.tpl" "_dog_breeds.tpl" "_content.tpl" "../" "./")
+
+ ("/Applications/" (22162 14294 0 0) "Xcode.app/" "VirtualBox.pkg" "VirtualBox.app/" "uTorrent.app/" "Utilities/" "TorBrowser.app/" "Toad.app/" "Time Machine.app/" "The Unarchiver.app/" "TextEdit.app/" "System Preferences.app/" "SyphonInject.app/" "Synergy.app/" "Sublime Text 2.app/" "Stickies.app/" "Steam.app/" "SQuirreLSQL.app/" "Splashtop Streamer.app/" "Skype.app/" "SketchUp 2015/" "Safari.app/" "Robomongo.app/" "Reminders.app/" "RelNotes" "RealVNC/" "QuickTime Player.app/" "Preview.app/" "Photos.app/" "Photo Booth.app/" "Pages.app/" "OBS.app/" "Numbers.app/" "Notes.app/" "MySQLWorkbench.app/" "Muscle Premium.app/" "Mission Control.app/" "Messages.app/" "Maps.app/" "MAMP PRO/" "MAMP/" "Mail.app/" "MacVim.app/" "LimeChat.app/" "Launchpad.app/" "Keynote.app/" "iTunes.app/" "iMovie.app/" "Image Capture.app/" "iBooks.app/" "gvim 2" "gvim" "Game Center.app/" "Font Book.app/" "Firefox.app/" "FileZilla.app/" "FaceTime.app/" "Electrum.app/" "DVD Player.app/" "Dictionary.app/" "DbVisualizer.app/" "Dashboard.app/" "Contacts.app/" "Chess.app/" "Calendar.app/" "Calculator.app/" "Bowery.app/" "BOINCManager.app/" "Automator.app/" "Audacity/" "App Store.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/" (21902 19277 0 0) "Shared/" "rouge/" "collinbell/" ".localized" "../" "./")
+
+ ("/Users/collinbell/Trademark/" (22154 35808 0 0) "tmprojectsdev/" "time-tracker/" "ssh" "rt_photos/" "rentailor.zip" "rentailor.git/" "rentailor/" "refund-policy.tpl" "php.ini" "node-js-getting-started/" "mail/" "edit-billable.tpl" "ec2-user@ec2-52-91-194-208.compute-1.amazonaws.com/" "ec2-user@52.23.163.123/" "collin.pem" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

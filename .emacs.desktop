@@ -1,0 +1,360 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Aug 28 19:42:06 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22467 16014 578800 0) (desktop . "206") "collinbell@Collins-MacBook-Air.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (foreground-color . "#d3d3d3") (background-color . "#000000") (line-spacing) (left-fringe . 7) (right-fringe . 7) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#dcdccc") (environment) (frameset--id . "D41B-A04E-DA4C-C72B") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "Collins-MacBook-Air.local") (explicit-name) (tool-bar-position . top) (height . 59) (width . 201) (left . 0) (top . 23)) ((min-height . 12) (min-width . 20) (min-height-ignore . 7) (min-width-ignore . 8) (min-height-safe . 3) (min-width-safe . 4) (min-pixel-height . 168) (min-pixel-width . 140) (min-pixel-height-ignore . 98) (min-pixel-width-ignore . 56) (min-pixel-height-safe . 42) (min-pixel-width-safe . 28)) hc (pixel-width . 1421) (pixel-height . 812) (total-width . 203) (total-height . 58) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 825) (pixel-height . 812) (total-width . 118) (total-height . 58) (normal-height . 1.0) (normal-width . 0.58008356545961) (buffer ".emacs" (selected) (hscroll . 0) (fringes 7 7 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 6521) (start . 5845))) (vc (last . t) (pixel-width . 596) (pixel-height . 812) (total-width . 85) (total-height . 58) (normal-height . 1.0) (normal-width . 0.41991643454038996) (combination-limit) (leaf (pixel-width . 596) (pixel-height . 267) (total-width . 85) (total-height . 19) (normal-height . 0.3237757066254132) (normal-width . 1.0) (buffer "*terminal*" (selected) (hscroll . 0) (fringes 7 7 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 8049) (start . 8039))) (leaf (pixel-width . 596) (pixel-height . 343) (total-width . 85) (total-height . 25) (normal-height . 0.422527200054852) (normal-width . 1.0) (buffer "*eww*" (selected) (hscroll . 0) (fringes 7 7 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 7662) (start . 7213))) (leaf (last . t) (pixel-width . 596) (pixel-height . 202) (total-width . 85) (total-height . 14) (normal-height . 0.25369709331973483) (normal-width . 1.0) (buffer "#emacs" (selected . t) (hscroll . 0) (fringes 7 7 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 12884) (start . 12314))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '("cider" "ci" "inject" "cider" "nrepl" "cider" "macroexpand-all" "macroexpand" "walk\\/" "walk" "\\<\n\\>"))
+(setq register-alist '((48 . "*** TODO Tune up bike\n**** TODO Wash Bike\n**** TODO Pump up tires\n**** TODO Check Brake lines\n**** TODO Check chain tension\n*** TODO Clean up food mess\n*** TODO Put things where they belong\n*** TODO Record expenses\n*** TODO Brush Teeth\n*** TODO Floss Teeth\n*** TODO Shower\n*** TODO Meditate 20 min\n**** TODO How I will find, court, and marry a woman who:\n***** TODO writes code and designs software everyday because she wants to,\n***** TODO follows a daily fitness regimen,\n***** TODO completely finishes books she starts and reads from a book (or book equivalant) every day,\n***** TODO eats healthy vegetarian meals only,\n\n***** TODO writes down her goals and meditates on them daily,\n***** TODO keeps a daily log of her thoughts, feelings, and actions,\n***** TODO will dance with me in public settings (ballrooms, square dances, formal affairs, etc.),\n***** TODO and will build a cybernetics company with me.\n**** TODO How I want to develop the soul for dameons \n**** TODO How I want to run a successful kickstarter for 30k by Sept 12 when I get back to the United States\n**** TODO How my partner and I will then build a cybernetics company worth 6 million dollars by Dec 31, 2016.\n**** TODO How my partner and I will then enter into YCombinator and be accepted. \n") (113) (105)))
+(setq file-name-history '("~/org/expenses.org" "~/org/sleep-ritual.org" "~/org/wake-up-ritual.org" "~/.config/fish/config.fish" "~/.lein/profiles.clj" "~/.emacs" "~/Programs/riddley/src/riddley/walk.clj" "~/Programs/riddley_orig/src/riddley/walk.clj" "~/Programs/riddley_orig/test/riddley/walk_test.clj" "~/dameon/src/dameon/smart_atom.clj"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/collinbell/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode)
+  6521
+  '(6573 nil)
+  nil
+  nil
+  '((tab-width . 2) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/org/sleep-ritual.org"
+  "sleep-ritual.org"
+  'org-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  104515
+  '(104515 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/org/expenses.org"
+  "expenses.org"
+  'org-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  3412
+  '(3412 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/org/wake-up-ritual.org"
+  "wake-up-ritual.org"
+  'org-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  419
+  '(419 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/dameon/src/dameon/visual_cortex/stream_tree.clj"
+  "stream_tree.clj"
+  'clojure-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode cider-mode paredit-mode)
+  2872
+  '(2872 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/dameon/src/dameon/visual_cortex/stream.clj"
+  "stream.clj"
+  'clojure-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode cider-mode paredit-mode)
+  1041
+  '(1041 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/org/contacts.org"
+  "contacts.org"
+  'org-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  68
+  '(68 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/dameon/project.org"
+  "project.org"
+  'org-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  88
+  '(88 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/dameon/test/dameon/visual_cortex/stream_test.clj"
+  "stream_test.clj"
+  'clojure-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode cider-mode paredit-mode)
+  679
+  '(679 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/.config/fish/config.fish"
+  "config.fish"
+  'conf-space-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  176
+  '(176 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/Programs/cider-nrepl/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode cider-mode paredit-mode)
+  972
+  '(972 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/.m2/repository/org/clojure/clojure/1.9.0-alpha10/clojure-1.9.0-alpha10.jar:clojure/test.clj"
+  "test.clj"
+  'clojure-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode cider-mode paredit-mode)
+  24221
+  '(24221 nil)
+  t
+  nil
+  '((indent-tabs-mode) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/dameon/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode cider-mode paredit-mode)
+  583
+  '(583 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/.lein/profiles.clj"
+  "profiles.clj"
+  'clojure-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode cider-mode paredit-mode)
+  97
+  '(62 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "resources"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  212
+  '(212 nil)
+  t
+  '("/Users/collinbell/Programs/cider-nrepl/resources/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "cider-20160602.809"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  4303
+  '(4303 nil)
+  t
+  '("/Users/collinbell/.emacs.d/elpa/cider-20160602.809/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/.emacs.d/elpa/cider-20160602.809/nrepl-client.el"
+  "nrepl-client.el"
+  'emacs-lisp-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode)
+  40446
+  '(40446 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/.emacs.d/elpa/cider-20160602.809/cider-apropos.el"
+  "cider-apropos.el"
+  'emacs-lisp-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode)
+  7814
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/.emacs.d/elpa/cider-20160602.809/cider-apropos.elc"
+  "cider-apropos.elc"
+  'emacs-lisp-byte-code-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  2741
+  '(856 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-emacs-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/.emacs.d/elpa/cider-20160602.809/derp.cpp"
+  "derp.cpp"
+  'c++-mode
+  '(abbrev-mode undo-tree-mode helm-mode projectile-mode auto-complete-mode)
+  109
+  '(110 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/.emacs.d/elpa/cider-20160602.809/cider.el"
+  "cider.el"
+  'emacs-lisp-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode)
+  6316
+  '(6351 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "elpa"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  1180
+  '(1180 nil)
+  t
+  '("/Users/collinbell/.emacs.d/elpa/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "circe-20160608.1315"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  219
+  '(219 nil)
+  t
+  '("/Users/collinbell/.emacs.d/elpa/circe-20160608.1315/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  864
+  '(864 t)
+  t
+  '("/Users/collinbell/.emacs.d/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/collinbell/Programs/cider-nrepl/src/cider/nrepl/middleware/util/meta.clj"
+  "meta.clj"
+  'clojure-mode
+  '(undo-tree-mode helm-mode projectile-mode auto-complete-mode cider-mode paredit-mode)
+  1123
+  '(1123 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "util"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  692
+  '(692 nil)
+  t
+  '("/Users/collinbell/Programs/cider-nrepl/src/cider/nrepl/middleware/util/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "middleware"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  1555
+  '(1555 nil)
+  t
+  '("/Users/collinbell/Programs/cider-nrepl/src/cider/nrepl/middleware/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "nrepl"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  273
+  '(273 nil)
+  t
+  '("/Users/collinbell/Programs/cider-nrepl/src/cider/nrepl/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "cider"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  263
+  '(263 nil)
+  t
+  '("/Users/collinbell/Programs/cider-nrepl/src/cider/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  257
+  '(257 nil)
+  t
+  '("/Users/collinbell/Programs/cider-nrepl/src/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "cider_nrepl"
+  'dired-mode
+  '(undo-tree-mode helm-mode projectile-mode)
+  213
+  '(213 nil)
+  t
+  '("/Users/collinbell/Programs/cider-nrepl/src/cider_nrepl/")
+  '((overwrite-mode)))
+
